@@ -38,3 +38,11 @@
     // var xl2json = new excelToJson();
     // xl2json.parseExcel(files[0]); // expecting only one file
     // console.log("files", files);
+
+
+
+
+
+// https://blog.filestack.com/how-to-read-uploaded-file-content-in-javascript/#:~:text=the%20mounting%20process.-,Is%20It%20Possible%20To%20Interpret%20A%20React%20File%20Upload%3F,target.
+// https://dev.to/shareef/convert-excel-to-json-in-reactjs-in-just-2-steps-4pa1
+// https://github.com/exceljs/exceljs/issues/832
